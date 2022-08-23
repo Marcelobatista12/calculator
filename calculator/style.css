@@ -1,0 +1,35 @@
+body {
+    width:100%;
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+input {
+
+    padding:17px;
+    outline:none; /* outline no css é como uma borda a mais por fora da div*/
+font-size:30px;
+border-radius:25%;
+cursor:pointer
+}
+.text1{
+    width:160px;
+    height:26px;
+    text-align: center;
+letter-spacing: 5px;
+background-color: white; 
+}
+.text2{
+    width:24px;
+    height:26px;
+    text-align: center;
+letter-spacing: 5px;
+border-radius:50%;
+color:black
+}
+.num{
+    background-color: orange;
+}
+
